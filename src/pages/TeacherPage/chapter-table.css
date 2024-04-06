@@ -1,0 +1,11 @@
+.ant-table-expanded-row > .ant-table-cell {
+  padding: 0 !important;
+}
+
+.lesson__button {
+  margin-bottom: 20px;
+}
+
+.lesson {
+  padding: 20px;
+}

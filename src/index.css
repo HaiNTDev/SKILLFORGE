@@ -1,0 +1,14 @@
+body {
+  margin: 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-family: "Josefin Sans", sans-serif !important;
+
+  /* background: linear-gradient(43deg, #4158d0 0%, #c850c0 46%, #ffcc70 100%); */
+}
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}

@@ -1,0 +1,62 @@
+.viewCourse .member {
+  border-radius: 10px 10px;
+}
+
+.viewCourse .member .img-fluid {
+  border-radius: 10px 0px 0px 10px;
+}
+.viewCourse .member .member-info .footer a {
+  margin-right: 4%;
+}
+
+.myCourse .member {
+  border-radius: 10px 10px;
+}
+
+.myCourse .member .img-fluid {
+  border-radius: 10px 0px 0px 10px;
+}
+.myCourse .member .member-info .footer a {
+  margin-right: 4%;
+}
+
+.ant-card-hoverable:hover,
+.ant-card-meta-title:hover {
+  color: #b75757;
+}
+
+.feedback {
+  text-align: center;
+  margin-bottom: 40px;
+}
+
+.card-feedback {
+  display: flex;
+  justify-content: space-evenly;
+  margin-bottom: 10px;
+}
+
+/*Navbar*/
+/* .navbar {
+  background: linear-gradient(to bottom, #c054ff 0%, #5274ff 100%) !important;
+} */
+.navbar-nav .nav-item .nav-link {
+  font-size: medium;
+  font-weight: 500;
+}
+
+.navbar-nav .nav-item .nav-link:hover {
+  background-color: #f5f5f5;
+  color: #b75757;
+}
+.navbar-nav .nav-item .nav-link a::after {
+  background-color: #f5f5f5;
+  color: #b75757;
+}
+
+#carousel {
+  background-image: url("/public/images/h1_hero.png");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center center;
+}

@@ -1,0 +1,27 @@
+.ant-tabs-card.ant-tabs-top > .ant-tabs-nav .ant-tabs-tab-active {
+  background-color: #eaeaea !important;
+}
+.ant-tabs-tab {
+  font-weight: 700;
+  background-color: white !important;
+}
+.ant-tabs .ant-tabs-tab.ant-tabs-tab-active .ant-tabs-tab-btn {
+  color: #b75757 !important;
+}
+.ant-tabs {
+  /* padding: 10px; */
+  border-radius: 10px 10px !important;
+  background-color: #eaeaea !important;
+}
+
+.ant-tabs-card.ant-tabs-top > .ant-tabs-nav .ant-tabs-tab {
+  width: calc(100% / 4);
+  justify-content: center;
+}
+.ant-tabs-nav-list {
+  width: 100%;
+}
+
+/* .ant-card {
+  width: 100vw !important;
+} */
